@@ -59,7 +59,7 @@
     "./mqtt.js": "./lib/connect/index.js",
     "fs": false,
     "tls": false,
-    "net": "react-native-tcp",
+    "net": "react-native-tcp"
   },
   "dependencies": {
     "buffer": "^6.0.3",
