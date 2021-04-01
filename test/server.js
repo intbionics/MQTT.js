@@ -1,6 +1,6 @@
 'use strict'
 
-var net = require('net')
+var net = require('react-native-tcp-socket').default
 var tls = require('tls')
 var Connection = require('mqtt-connection')
 
