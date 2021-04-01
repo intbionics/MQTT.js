@@ -5,7 +5,6 @@
  * See LICENSE for more information
  */
 
-
 var MqttClient = require('./lib/client')
 var connect = require('./lib/connect')
 var Store = require('./lib/store')
