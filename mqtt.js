@@ -5,6 +5,8 @@
  * See LICENSE for more information
  */
 
+global.Buffer = require('buffer').Buffer
+
 var MqttClient = require('./lib/client')
 var connect = require('./lib/connect')
 var Store = require('./lib/store')
